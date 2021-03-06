@@ -1,5 +1,5 @@
 # Bad-Debt
-Datacamp - statistical analysis of bad debt.
+Datacamp - statistical analysis of bad debt. Play bank data scientist and use regression discontinuity to see which debts are worth collecting.
 
 After a debt has been legally declared "uncollectable" by a bank, the account is considered to be "charged-off." 
 But that doesn't mean the bank simply walks away from the debt. 
